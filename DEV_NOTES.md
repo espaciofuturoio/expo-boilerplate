@@ -1,6 +1,6 @@
 ```
-bunx expo install expo@latest --fix
-bunx expo install expo@next --fix
+bunx expo install expo@latest --fix --bun
+bunx expo install expo@next --fix --bun
 ```
 
 ## Animations
